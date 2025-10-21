@@ -1,0 +1,7 @@
+===== TECH SUMMARIZER REPORT =====
+File Analyzed: reviews50.txt
+Sentiment Score: 0.23
+Overall Feedback: Overall Positive
+
+🔍 Detailed Summary:
+Battery backup easily lasts 7 to 8 hours with normal use. The screen brightness is sufficient for outdoor use. The display is sharp with accurate colors and great brightness. The keyboard backlight brightness can be adjusted easily. The laptop feels solid and premium in hand.
